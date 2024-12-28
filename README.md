@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2>Hey there! I'm Alexis Arce</h2>
 
-<!--
-**AlexArce2000/AlexArce2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student with a passion for technology, problem-solving, and continuous learning.
+### 🖥️ What I Do
+I specialize in backend development and enjoy working with a variety of programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages**: Python, Java, JavaScript, C
+- **Frameworks**: Django, Spring Boot, Angular
+- **Databases**: PostgreSQL, Oracle, MySQL
+- **Tools**: Git, Docker, VS Code, IntelliJ IDEA
+- **Other**: RESTful APIs
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AlexArce2000&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /></p>
