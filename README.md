@@ -16,7 +16,8 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 - 🔭 Currently working on web applications & internal management systems at **Konecta**
 - 🎓 Computer Engineer, graduated from **UNA – Facultad Politécnica**
 - 🔬 Co-author of a research paper on wildfire risk prediction using ML (Stacking: Random Forest, SVM, KNN), published at **CACIC 2025**
-- 🌱 Always learning — currently deepening my Angular and Spring Boot skills
+- 🌱 Always learning — deepening my Angular and Spring Boot skills
+- ☁️ Exploring Cloudflare R2 (storage) and Google Cloud Run (deployment) as next steps
 - 🚀 On the side, I build small projects focused on high-quality, cost-efficient solutions delivered fast — lean scope, solid execution
 - 💬 Ask me about Angular, Java, Python, or REST API design
 
@@ -24,9 +25,20 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,angular,spring,django,postgres,mongodb,mysql,git,docker,linux,vscode,idea,postman" alt="Skills" />
-</p>
+**Languages & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,angular,spring,django" alt="Languages & Frameworks" />
+
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
+
+**Cloud & Deploy**<br>
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp,docker" alt="Cloud & Deploy" />
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,postman" alt="Tools" />
+
+**BaaS**<br>
+<img src="https://skillicons.dev/icons?i=supabase,firebase" alt="BaaS" />
 
 ---
 
