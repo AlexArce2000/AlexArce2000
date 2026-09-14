@@ -18,6 +18,7 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 - 🔬 Co-author of a research paper on wildfire risk prediction using ML (Stacking: Random Forest, SVM, KNN), published at **CACIC 2025**
 - 🌱 Always learning — deepening my Angular and Spring Boot skills
 - ☁️ Exploring Cloudflare R2 (storage) and Google Cloud Run (deployment) as next steps
+- 🔧 Preprod deploy: `ng build` → dist → Nexus (artifact repo) → Ansible
 - 🚀 On the side, I build small projects focused on high-quality, cost-efficient solutions delivered fast — lean scope, solid execution
 - 💬 Ask me about Angular, Java, Python, or REST API design
 
@@ -32,7 +33,8 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
 
 **Cloud & Deploy**<br>
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp,docker" alt="Cloud & Deploy" />
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp,docker,ansible" alt="Cloud & Deploy" />
+<br><img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render" />
 
 **Tools**<br>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,postman" alt="Tools" />
@@ -40,8 +42,12 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 **BaaS**<br>
 <img src="https://skillicons.dev/icons?i=supabase,firebase" alt="BaaS" />
 
----
 
+---
+### 🤖 AI-Assisted Workflow
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" /> <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Studio" />
+
+---
 ### 📊 GitHub Stats
 
 <div align="center">
