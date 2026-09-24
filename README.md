@@ -45,7 +45,7 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 
 ---
 ### 🤖 AI-Assisted Workflow
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" /> <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" /> <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Studio" />
 
 ---
 ### 📊 GitHub Stats
@@ -57,7 +57,6 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 </div>
 
 ---
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AlexArce2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
