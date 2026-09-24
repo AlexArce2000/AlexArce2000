@@ -54,6 +54,9 @@ I'm a Computer Engineer and Full Stack Developer, currently working at **Konecta
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AlexArce2000&theme=tokyonight&hide_border=true)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexArce2000&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexArce2000&theme=tokyonight" height="180" />
+
 </div>
 
 ---
